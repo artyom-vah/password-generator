@@ -14,7 +14,7 @@
 1. Клонируйте репозиторий и перейдите в него в командной строке:
 
 ```
-git clone https://github.com/artyom-vah/
+https://github.com/artyom-vah/password-generator.git
 ```
 
 
@@ -46,5 +46,6 @@ python manage.py runserver
 
 **Пример готового проекта**
 
-![brows_1](https://github.com/artyom-vah/director-s-day/blob/main/screens/brows_1.jpg)
-![brows_2](https://github.com/artyom-vah/director-s-day/blob/main/screens/brows_2.jpg)
+![Screenshot_1](https://github.com/artyom-vah/password-generator/blob/main/screens/Screenshot_1.jpg)
+![Screenshot_2](https://github.com/artyom-vah/password-generator/blob/main/screens/Screenshot_2.jpg)
+![Screenshot_3](https://github.com/artyom-vah/password-generator/blob/main/screens/Screenshot_3.jpg)
