@@ -44,8 +44,12 @@ python manage.py runserver
 4. С учетом спец. символов "*!@#$%^&*()";
 5.  По умолчанию генерация происходит в нижнем регистре "*abcdefghijklmnopqrstuvwxyz*".
 
-**Пример готового проекта**
-
+### *Пример готового проекта*
+##### 1й скрин:
 ![Screenshot_1](https://github.com/artyom-vah/password-generator/blob/main/screens/Screenshot_1.jpg)
+
+##### 2й скрин:
 ![Screenshot_2](https://github.com/artyom-vah/password-generator/blob/main/screens/Screenshot_2.jpg)
+
+##### 3й скрин:
 ![Screenshot_3](https://github.com/artyom-vah/password-generator/blob/main/screens/Screenshot_3.jpg)
